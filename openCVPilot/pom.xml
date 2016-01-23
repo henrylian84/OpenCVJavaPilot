@@ -10,7 +10,8 @@
 			<groupId>org.opencv</groupId>
 			<artifactId>opencv</artifactId>
 			<version>2.4.9</version>
-			<systemPath>C:/Users/henry_lian/git/OpenCVJavaPilot/openCVPilot/lib/opencv-310.jar</systemPath>
+			<!-- <systemPath>C:/Users/henry_lian/git/OpenCVJavaPilot/openCVPilot/lib/opencv-310.jar</systemPath> -->
+			<systemPath>/Users/henrylian/git/OpenCVJavaPilot/openCVPilot/lib/mac-opencv-310.jar</systemPath>
 			<scope>system</scope>
 		</dependency>
 	</dependencies>
